@@ -1,4 +1,4 @@
-# FIRST_WEBISTE
+# FIRST_WEBSITE
 
 My First Website
 
